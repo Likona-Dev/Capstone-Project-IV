@@ -52,3 +52,4 @@ You will then need to install an integrated development environment (IDE) which 
 
 ### Contributors
 
+This program has been reviewed and commented on by the Hyperion Development Sofware Engineering Bootcamp mentors.
